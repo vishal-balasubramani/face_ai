@@ -1,0 +1,31 @@
+# Core Framework
+fastapi
+uvicorn[standard]
+websockets
+python-dotenv
+
+# AI & ML
+transformers
+torch
+opencv-python
+pillow
+tf-keras
+
+# Database
+sqlalchemy
+psycopg2-binary
+redis
+
+# AI Content Generation
+google-generativeai
+
+# Analytics & Reports
+pandas
+numpy
+matplotlib
+reportlab
+
+# Utilities
+pydantic
+python-multipart
+aiofiles
